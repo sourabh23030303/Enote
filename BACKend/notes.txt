@@ -1,0 +1,27 @@
+1.npm init
+2.npm i express
+3.create index.js (because it is entery point)
+
+create db.js for mongoose connection 
+after making connection install nodemone-npm i -D nodemon (because apn ye pure app ka parrt naahi bana chate)
+for runing nodemon (nodemon index.js)
+
+then we copy the code frome expres js to start our express
+
+###modelels bnayenge staart with capitals or usme schema sse model bna denge jo deside krta hai ki kis format mai data ayega
+
+fir index mai app.usse()kr k routes ko link krenge 
+
+ab jo file route hogi usme express.router() use krenge 
+
+
+thundre client se req bhej k dekhki local host pe us aut bale path pe ki data milra hai ya naahi
+
+ thunder clint mai header mai content type applocation json kkrna hai or agr apn req.body ko use krna cahte hai to middle ware use krna padega index mai app.use(express.json())
+
+password hashing ############################
+install npm bcryptjs package for password hashing and other functionality
+
+now install token for authontication (jwt authontication) to verify the user frome server 
+
+middleware ek bich ka arguement hai jese array liya hai

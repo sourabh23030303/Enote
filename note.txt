@@ -1,0 +1,23 @@
+
+########BACKEND
+
+1.npm init
+2.npm i express
+3.index.js (because it is entery point)
+
+
+
+
+###########REACT APP
+GIT IGNORE MAI node module unslash
+
+
+backend bnane k bad  npm i react router dom concurentely krna jis se backend or react aap sath mai chala sakte hai
+react k package.json mai script mai both kr k dono k strt procidure mix krna 
+
+
+context api#######################
+
+component drills se mukti prapth karata hai 
+
+      https://sourabhenoteweb.netlify.app
