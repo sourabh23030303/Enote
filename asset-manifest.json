@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Enote/static/css/main.a56be43b.css",
-    "main.js": "/Enote/static/js/main.d6b5cd28.js",
-    "static/js/787.4e52ed61.chunk.js": "/Enote/static/js/787.4e52ed61.chunk.js",
-    "index.html": "/Enote/index.html",
-    "main.a56be43b.css.map": "/Enote/static/css/main.a56be43b.css.map",
-    "main.d6b5cd28.js.map": "/Enote/static/js/main.d6b5cd28.js.map",
-    "787.4e52ed61.chunk.js.map": "/Enote/static/js/787.4e52ed61.chunk.js.map"
+    "main.css": "/static/css/main.a56be43b.css",
+    "main.js": "/static/js/main.c211e35c.js",
+    "static/js/787.4e52ed61.chunk.js": "/static/js/787.4e52ed61.chunk.js",
+    "index.html": "/index.html",
+    "main.a56be43b.css.map": "/static/css/main.a56be43b.css.map",
+    "main.c211e35c.js.map": "/static/js/main.c211e35c.js.map",
+    "787.4e52ed61.chunk.js.map": "/static/js/787.4e52ed61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a56be43b.css",
-    "static/js/main.d6b5cd28.js"
+    "static/js/main.c211e35c.js"
   ]
 }
